@@ -8,6 +8,8 @@
   <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 </p>
 
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=developer-labibur&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </p>
+<!-- Visitor counter with snake animation -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=developer-labibur&label=Profile+Views&color=8A2BE2&style=flat" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/developer-labibur?label=Followers&style=social&color=8A2BE2" alt="GitHub Followers"/>
+</p>
