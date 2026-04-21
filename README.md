@@ -19,6 +19,8 @@
   Specialized in real-time communication, AI integration, and scalable cross-platform solutions.
 </p>
 
+
+
 <a href="#">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </a>
@@ -52,11 +54,19 @@ Philosophy: Building scalable, user-centric apps with clean architecture
 
 <p align="center">
   <a href="https://linkedin.com/in/labib-ur-rahman" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  
+
   <a href="https://cdn.jsdelivr.net/gh/developer-labibur/personal-profile/Resume-of-Labibur-Apr21.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/>
+  </a>
+
+  <a href="mailto:contact.labibur@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+
+  <a href="https://www.facebook.com/developer-labib/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
 </p>
 
