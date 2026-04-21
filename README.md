@@ -106,3 +106,16 @@ Philosophy: Building scalable, user-centric apps with clean architecture
 
 
 
+<div align="center">
+
+  ## GitHub Streak
+  ![GitHub Streak](https://streak-stats.demolab.com?user=developer-labibur&theme=radical&hide_border=true&background=00000000&ring=8A2BE2&fire=8A2BE2&currStreakNum=FFFFFF)
+
+  ## Profile Summary
+  ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=developer-labibur&theme=radical)
+  
+</div>
+
+<p align="center">
+  <i>Open to collaboration on innovative Flutter projects and consulting opportunities.</i>
+</p>
