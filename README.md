@@ -25,10 +25,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/developer-labibur/developer-labibur/output/snake.svg">
 </picture>
 
-
-<a href="#">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</a>
 </p>
 
 ## Portfolio
@@ -121,6 +117,12 @@ Philosophy: Building scalable, user-centric apps with clean architecture
   ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=developer-labibur&theme=radical)
   
 </div>
+
+
+<a href="#">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</a>
+
 
 <p align="center">
   <i>Open to collaboration on innovative Flutter projects and consulting opportunities.</i>
