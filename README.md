@@ -23,7 +23,8 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </a>
 
-<h2 align="center"> Portfolio </h2>
+
+## Portfolio
 
 <p align="center">
   <a href="https://devlabib.web.app" target="_blank">
@@ -34,3 +35,59 @@
 <p align="center">
   Explore my portfolio of scalable mobile apps, clean architectures, and AI-powered solutions.
 </p>
+
+
+## About Me
+
+```yaml
+Current Role: Flutter Developer @ Softvence | Dhaka, Bangladesh
+Experience: Delivered 2+ published apps on Play Store & App Store
+Specialization: Flutter, Real-time Communication (Agora), AI Integration, Payment Systems
+Education: BSc in Computer Science and Engineering, Uttara University (Ongoing)
+Philosophy: Building scalable, user-centric apps with clean architecture
+```
+
+
+## Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/labib-ur-rahman" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  
+  <a href="https://cdn.jsdelivr.net/gh/developer-labibur/personal-profile/Resume-of-Labibur-Apr21.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/>
+  </a>
+</p>
+
+ 
+
+## Core Technologies
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+  <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/XML-%23FF6600.svg?style=for-the-badge&logo=xml&logoColor=white" alt="XML"/>
+  
+  <img src="https://img.shields.io/badge/Riverpod-%2300C853.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Riverpod"/>
+  <img src="https://img.shields.io/badge/GetX-%23FF4081.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="GetX"/>
+  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
+  
+  <img src="https://img.shields.io/badge/REST%20API-%23013243.svg?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API"/>
+  <img src="https://img.shields.io/badge/Agora-%23099DFD.svg?style=for-the-badge&logo=agora&logoColor=white" alt="Agora"/>
+  <img src="https://img.shields.io/badge/Stripe-%23008CDD.svg?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe"/>
+
+  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+  <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white" alt="CSS"/>
+  <img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
+
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</p>
+
+
+
+
+
