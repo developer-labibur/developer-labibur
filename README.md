@@ -126,7 +126,7 @@ Philosophy: Building scalable, user-centric apps with clean architecture
         <strong>Role:</strong> Sole Flutter Developer
       </p>
       <p align="center">
-        <a href="https://play.google.com/store/apps/details?id=com.qanun.app&hl=en" target="_blank">
+        <a href="https://play.google.com/store/apps/details?id=com.gogetagenie.app" target="_blank">
           <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/>
         </a>
       </p>
