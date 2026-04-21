@@ -161,5 +161,6 @@ Philosophy: Building scalable, user-centric apps with clean architecture
 
 
 <p align="center">
+  <br/>
   <i>Open to collaboration on innovative Flutter projects and consulting opportunities.</i>
 </p>
