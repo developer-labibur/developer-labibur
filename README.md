@@ -108,10 +108,16 @@ Philosophy: Building scalable, user-centric apps with clean architecture
 
 <div align="center">
 
-  ## GitHub Streak
+  <h2 div align="left"> 
+    GitHub Streak
+  </h2>
+  
   ![GitHub Streak](https://streak-stats.demolab.com?user=developer-labibur&theme=radical&hide_border=true&background=00000000&ring=8A2BE2&fire=8A2BE2&currStreakNum=FFFFFF)
 
-  ## Profile Summary
+  <h2 div align="left"> 
+    Profile Summary
+  </h2>
+
   ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=developer-labibur&theme=radical)
   
 </div>
