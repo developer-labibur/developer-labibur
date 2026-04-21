@@ -17,14 +17,19 @@
 <p align="center" style="font-size: 18px;">
   Flutter Developer with proven expertise in building production-ready mobile applications for Google Play Store and Apple App Store.  
   Specialized in real-time communication, AI integration, and scalable cross-platform solutions.
-</p>
 
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/developer-labibur/developer-labibur/output/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/developer-labibur/developer-labibur/output/snake.svg">
+</picture>
 
 
 <a href="#">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </a>
-
+</p>
 
 ## Portfolio
 
