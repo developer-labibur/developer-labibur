@@ -19,11 +19,12 @@
   Specialized in real-time communication, AI integration, and scalable cross-platform solutions.
 
 
-
+<!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/developer-labibur/developer-labibur/output/snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/developer-labibur/developer-labibur/output/snake.svg">
 </picture>
+-->
 
 </p>
 
@@ -150,7 +151,14 @@ Philosophy: Building scalable, user-centric apps with clean architecture
     Profile Summary
   </h2>
 
-  ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=developer-labibur&theme=radical)
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/developer-labibur/developer-labibur/output/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/developer-labibur/developer-labibur/output/snake.svg">
+</picture>
+
+  <a href="#"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=developer-labibur&theme=github-compact&hide_border=true&title=developer-labibur%20Activity%20Graph&line=00FF66&point=00FF66&bg_color=0d1117&color=00FF66" width="100%"/> </a>
+
+  <!--![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=developer-labibur&theme=radical)-->
   
 </div>
 
