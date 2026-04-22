@@ -113,7 +113,7 @@ Philosophy: Building scalable, user-centric apps with clean architecture
         <a href="https://play.google.com/store/apps/details?id=com.deepquran.app" target="_blank">
           <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/>
         </a>
-        <a href="https://apps.apple.com/in/app/deepquran/#" target="_blank">
+        <a href="https://apps.apple.com/us/app/deep-quran/id6756174229" target="_blank">
           <img src="https://img.shields.io/badge/App_Store-0A84FF?style=for-the-badge&logo=apple&logoColor=white" alt="App Store"/>
         </a>
       </p>
