@@ -34,8 +34,8 @@
           <path d="M8 1a7 7 0 1 0 0 14A7 7 0 0 0 8 1zm0 2.5a4.5 4.5 0 0 1 4.473 4H14.5a.5.5 0 0 1 0 1h-2.027A4.5 4.5 0 0 1 8 12.5a4.5 4.5 0 0 1-4.473-4H1.5a.5.5 0 0 1 0-1h2.027A4.5 4.5 0 0 1 8 3.5zm0 1.5a3 3 0 1 0 0 6 3 3 0 0 0 0-6z"/>
         </svg>
       </g>
-      <text x="0" y="2" text-anchor="middle" fill="#00d4ff" font-size="28" font-weight="bold" font-family="sans-serif" opacity="0.35" filter="url(#num-glow)">24</text>
-      <text x="0" y="2" text-anchor="middle" fill="#f1f5f9" font-size="28" font-weight="bold" font-family="sans-serif">24</text>
+      <text x="0" y="2" text-anchor="middle" fill="#00d4ff" font-size="28" font-weight="bold" font-family="sans-serif" opacity="0.35" filter="url(#num-glow)">25</text>
+      <text x="0" y="2" text-anchor="middle" fill="#f1f5f9" font-size="28" font-weight="bold" font-family="sans-serif">25</text>
       <text x="0" y="20" text-anchor="middle" fill="#64748b" font-size="11" font-family="monospace" letter-spacing="1">Commits</text>
     </g>
     <g class="metric-cell" transform="translate(255.0, 95)">
@@ -64,8 +64,8 @@
           <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3z"/><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0zm0 1.5a6.5 6.5 0 1 0 0 13 6.5 6.5 0 0 0 0-13z"/>
         </svg>
       </g>
-      <text x="0" y="2" text-anchor="middle" fill="#00d4ff" font-size="28" font-weight="bold" font-family="sans-serif" opacity="0.35" filter="url(#num-glow)">1</text>
-      <text x="0" y="2" text-anchor="middle" fill="#f1f5f9" font-size="28" font-weight="bold" font-family="sans-serif">1</text>
+      <text x="0" y="2" text-anchor="middle" fill="#00d4ff" font-size="28" font-weight="bold" font-family="sans-serif" opacity="0.35" filter="url(#num-glow)">0</text>
+      <text x="0" y="2" text-anchor="middle" fill="#f1f5f9" font-size="28" font-weight="bold" font-family="sans-serif">0</text>
       <text x="0" y="20" text-anchor="middle" fill="#64748b" font-size="11" font-family="monospace" letter-spacing="1">Issues</text>
     </g>
     <g class="metric-cell" transform="translate(765.0, 95)">
