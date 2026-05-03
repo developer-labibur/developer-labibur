@@ -1,15 +1,3 @@
-# Galaxy Profile README Configuration
-# Copy this file to config.yml and customize it to make it your own!
-#
-# Usage:
-#   cp config.example.yml config.yml
-#   # Edit config.yml with your details
-#   python -m generator.main
-#
-# Demo mode (no API calls, uses this file directly):
-#   python -m generator.main --demo
-
-# Your GitHub username (required)
 username: developer-labibur
 
 # Profile information displayed in the galaxy header
@@ -31,7 +19,7 @@ social:
   linkedin: "labib-ur-rahman"
   website: "https://devlabib.web.app"
 
-# Galaxy arms represent your core focus areas
+# Galaxy arms represent my core focus areas
 # Each arm spirals out from the center with its own color and tech items
 # Available colors: "synapse_cyan", "dendrite_violet", "axon_amber"
 galaxy_arms:
