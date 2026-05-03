@@ -74,7 +74,7 @@
 </table>
 
 <h2 align="center"> 
-  GitHub Streak
+  Published Applications
 </h2>
 
 <table>
