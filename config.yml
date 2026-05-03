@@ -18,7 +18,8 @@ profile:
   tagline: "Mobile App Developer | Flutter | Dart | Kotlin | Java"
   company: "Flutter Developer @ Softvence | Dhaka, Bangladesh"
   location: "Mohakhali, Dhaka, Bangladesh"
-  bio: "Flutter Developer with proven expertise in building 
+  bio: |
+    "Flutter Developer with proven expertise in building 
     production-ready mobile applications for Google Play Store and Apple App Store. 
     Specialized in real-time communication, AI integration, 
     and scalable cross-platform solutions."
@@ -63,10 +64,10 @@ galaxy_arms:
 #   arm: 0-2                  — Which galaxy arm to associate with (index)
 #   description: "..."        — Short description shown on the card
 projects:
-  - repo: "developer-labibur/deep-quran"
+  - repo: "developer-labibur/Deep Quran"
     arm: 0
     description: "Islamic learning platform featuring audio recitation, translations, and optimized reading experience with focus on performance and accessibility."
-  - repo: "developer-labibur/go-get-a-genie"
+  - repo: "developer-labibur/Go Get A Genie"
     arm: 1
     description: "AI-powered project and task management app with manual/AI project creation, collaboration, infinite subtasks, and real-time notifications for streamlined workflow."
 
