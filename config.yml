@@ -10,7 +10,7 @@
 #   python -m generator.main --demo
 
 # Your GitHub username (required)
-username: labib-softvence
+username: developer-labibur
 
 # Profile information displayed in the galaxy header
 profile:
@@ -27,7 +27,7 @@ profile:
 
 # Social links displayed at the bottom of the profile
 social:
-  email: "labibur@softvence.com"
+  email: "developer.labibur@gmail.com"
   linkedin: "labib-ur-rahman"
   website: "https://devlabib.web.app"
 
@@ -61,10 +61,10 @@ galaxy_arms:
 #   arm: 0-2                  — Which galaxy arm to associate with (index)
 #   description: "..."        — Short description shown on the card
 projects:
-  - repo: "labib-softvence/labib-softvence"
+  - repo: "developer-labibur/developer-labibur"
     arm: 0
     description: "Islamic learning platform featuring audio recitation, translations, and optimized reading experience with focus on performance and accessibility."
-  - repo: "labib-softvence/labib-softvence"
+  - repo: "developer-labibur/developer-labibur"
     arm: 1
     description: "AI-powered project and task management app with manual/AI project creation, collaboration, infinite subtasks, and real-time notifications for streamlined workflow."
 
