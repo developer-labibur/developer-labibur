@@ -1,0 +1,100 @@
+# Galaxy Profile README Configuration
+# Copy this file to config.yml and customize it to make it your own!
+#
+# Usage:
+#   cp config.example.yml config.yml
+#   # Edit config.yml with your details
+#   python -m generator.main
+#
+# Demo mode (no API calls, uses this file directly):
+#   python -m generator.main --demo
+
+# Your GitHub username (required)
+username: labib-softvence
+
+# Profile information displayed in the galaxy header
+profile:
+  name: "Md Labibur Rahman"
+  tagline: "Mobile App Developer | Flutter | Dart | Kotlin | Java"
+  company: "Flutter Developer @ Softvence | Dhaka, Bangladesh"
+  location: "Mohakhali, Dhaka, Bangladesh"
+  bio: |
+    Flutter Developer with proven expertise in building 
+    production-ready mobile applications for Google Play Store and Apple App Store. 
+    Specialized in real-time communication, AI integration, 
+    and scalable cross-platform solutions.
+  philosophy: '"Building scalable, user-centric apps with clean architecture"'
+
+# Social links displayed at the bottom of the profile
+social:
+  email: "labibur@softvence.com"
+  linkedin: "labib-ur-rahman"
+  website: "https://devlabib.web.app"
+
+# Galaxy arms represent your core focus areas
+# Each arm spirals out from the center with its own color and tech items
+# Available colors: "synapse_cyan", "dendrite_violet", "axon_amber"
+galaxy_arms:
+  - name: "ProgrammingLanguages"
+    color: "dendrite_violet"
+    items:
+      - "Kotlin"
+      - "Dart"
+      - "Java"
+  - name: "MobileDevelopment"
+    color: "synapse_cyan"
+    items:
+      - "Flutter"
+      - "GetX"
+      - "Riverpod"
+  - name: "BackendServices"
+    color: "axon_amber"
+    items:
+      - "Firebase"
+      - "REST API"
+      - "PHP"
+
+
+# Featured projects shown as constellation stars
+# Each project needs:
+#   repo: "owner/repo-name"   — GitHub repository path
+#   arm: 0-2                  — Which galaxy arm to associate with (index)
+#   description: "..."        — Short description shown on the card
+projects:
+  - repo: "labib-softvence/labib-softvence"
+    arm: 0
+    description: "Islamic learning platform featuring audio recitation, translations, and optimized reading experience with focus on performance and accessibility."
+  - repo: "labib-softvence/labib-softvence"
+    arm: 1
+    description: "AI-powered project and task management app with manual/AI project creation, collaboration, infinite subtasks, and real-time notifications for streamlined workflow."
+
+# Theme color overrides (optional — defaults to deep space palette)
+# All values must be valid hex color codes (#RRGGBB)
+theme:
+  void: "#080c14"              # Darkest background
+  nebula: "#0f1623"            # Card backgrounds
+  star_dust: "#1a2332"         # Borders, dividers
+  synapse_cyan: "#00d4ff"      # Primary accent (arm color 1)
+  dendrite_violet: "#a78bfa"   # Secondary accent (arm color 2)
+  axon_amber: "#ffb020"        # Tertiary accent (arm color 3)
+  text_bright: "#f1f5f9"       # Primary text
+  text_dim: "#94a3b8"          # Secondary text
+  text_faint: "#64748b"        # Muted text, labels
+
+# Stats configuration — which metrics to show on the telemetry card
+stats:
+  metrics:
+    - "commits"
+    - "stars"
+    - "prs"
+    - "issues"
+    - "repos"
+
+# Language display settings
+languages:
+  exclude:                     # Languages to hide from the telemetry chart
+    - "HTML"
+    - "CSS"
+    - "Shell"
+    - "Makefile"
+  max_display: 8               # Maximum number of languages to show

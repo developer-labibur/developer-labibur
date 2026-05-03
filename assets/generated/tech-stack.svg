@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="240" viewBox="0 0 850 240">
+  <defs/>
+
+  <!-- Card background -->
+  <rect x="0.5" y="0.5" width="849" height="239" rx="12" ry="12"
+        fill="#0f1623" stroke="#1a2332" stroke-width="1"/>
+
+  <!-- Left: Language Telemetry -->
+  <text x="30" y="38" fill="#64748b" font-size="11" font-family="monospace" letter-spacing="3">LANGUAGE TELEMETRY</text>
+
+  <!-- Vertical divider -->
+  <line x1="425" y1="25" x2="425" y2="215" stroke="#1a2332" stroke-width="1" opacity="0.4"/>
+
+  <!-- Right: Focus Sectors -->
+  <text x="460" y="38" fill="#64748b" font-size="11" font-family="monospace" letter-spacing="3">FOCUS SECTORS</text>
+
+    <g transform="translate(30, 65)">
+      <text x="0" y="0" fill="#94a3b8" font-size="11" font-family="sans-serif" dominant-baseline="middle">Python</text>
+      <rect x="110" y="-6" width="200.0" height="12" rx="3" fill="#3572A5" opacity="0.85">
+        <animate attributeName="width" from="0" to="200.0" dur="0.8s" begin="0.0s" fill="freeze"/>
+      </rect>
+      <text x="320" y="0" fill="#64748b" font-size="10" font-family="monospace" dominant-baseline="middle">100.0%</text>
+    </g>
+
+    <circle cx="637" cy="140" r="22" fill="none" stroke="#64748b" stroke-width="0.5" stroke-dasharray="3,3" opacity="0.25"/>
+    <circle cx="637" cy="140" r="44" fill="none" stroke="#64748b" stroke-width="0.5" stroke-dasharray="3,3" opacity="0.25"/>
+    <circle cx="637" cy="140" r="65" fill="none" stroke="#64748b" stroke-width="0.5" stroke-dasharray="3,3" opacity="0.25"/>
+    <path d="M 637 140 L 638.1 75.0 A 65 65 0 0 1 693.9 171.5 Z" fill="#a78bfa" fill-opacity="0.10" stroke="#a78bfa" stroke-opacity="0.3" stroke-width="0.5"/>
+    <path d="M 637 140 L 692.7 173.5 A 65 65 0 0 1 581.3 173.5 Z" fill="#00d4ff" fill-opacity="0.10" stroke="#00d4ff" stroke-opacity="0.3" stroke-width="0.5"/>
+    <path d="M 637 140 L 580.1 171.5 A 65 65 0 0 1 635.9 75.0 Z" fill="#ffb020" fill-opacity="0.10" stroke="#ffb020" stroke-opacity="0.3" stroke-width="0.5"/>
+    <line x1="637" y1="140" x2="637.0" y2="75.0" stroke="#64748b" stroke-width="0.5" opacity="0.3"/>
+    <line x1="637" y1="140" x2="693.3" y2="172.5" stroke="#64748b" stroke-width="0.5" opacity="0.3"/>
+    <line x1="637" y1="140" x2="580.7" y2="172.5" stroke="#64748b" stroke-width="0.5" opacity="0.3"/>
+    <g>
+      <!-- Sweep trail -->
+      <path d="M 637 140 L 604.5 83.7 A 65 65 0 0 1 637.0 75.0 Z" fill="#00d4ff" fill-opacity="0.07"/>
+      <!-- Outer wedge -->
+      <polygon points="634.5,140 637,75 639.5,140" fill="#00d4ff" opacity="0.25"/>
+      <!-- Inner bright core -->
+      <polygon points="636.2,140 637,75 637.8,140" fill="#00d4ff" opacity="0.5"/>
+      <!-- Tip glow -->
+      <circle cx="637" cy="75" r="2" fill="#00d4ff" opacity="0.6">
+        <animate attributeName="opacity" values="0.4;0.8;0.4" dur="2s" repeatCount="indefinite"/>
+      </circle>
+      <animateTransform attributeName="transform" type="rotate" from="0 637 140" to="360 637 140" dur="8s" repeatCount="indefinite"/>
+    </g>
+    <text x="708.9" y="98.5" fill="#a78bfa" font-size="9" font-family="monospace" text-anchor="start" dominant-baseline="middle">ProgrammingLanguages</text>
+    <text x="708.9" y="110.5" fill="#64748b" font-size="8" font-family="monospace" text-anchor="start" dominant-baseline="middle">(3)</text>
+    <text x="637.0" y="223.0" fill="#00d4ff" font-size="9" font-family="monospace" text-anchor="middle" dominant-baseline="middle">MobileDevelopment</text>
+    <text x="637.0" y="235.0" fill="#64748b" font-size="8" font-family="monospace" text-anchor="middle" dominant-baseline="middle">(3)</text>
+    <text x="565.1" y="98.5" fill="#ffb020" font-size="9" font-family="monospace" text-anchor="end" dominant-baseline="middle">BackendServices</text>
+    <text x="565.1" y="110.5" fill="#64748b" font-size="8" font-family="monospace" text-anchor="end" dominant-baseline="middle">(3)</text>
+    <circle cx="641.6" cy="116.4" r="3" fill="#a78bfa" opacity="0.35">
+      <animate attributeName="opacity" values="0.35;0.35;1.0;0.35;0.35" keyTimes="0;0.04;0.06;0.10;1" dur="8s" begin="7.94s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="671.6" cy="120.0" r="3" fill="#a78bfa" opacity="0.35">
+      <animate attributeName="opacity" values="0.35;0.35;1.0;0.35;0.35" keyTimes="0;0.04;0.06;0.10;1" dur="8s" begin="1.03s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="689.9" cy="158.2" r="3" fill="#a78bfa" opacity="0.35">
+      <animate attributeName="opacity" values="0.35;0.35;1.0;0.35;0.35" keyTimes="0;0.04;0.06;0.10;1" dur="8s" begin="2.12s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="655.1" cy="155.7" r="3" fill="#00d4ff" opacity="0.35">
+      <animate attributeName="opacity" values="0.35;0.35;1.0;0.35;0.35" keyTimes="0;0.04;0.06;0.10;1" dur="8s" begin="2.61s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="637.0" cy="180.0" r="3" fill="#00d4ff" opacity="0.35">
+      <animate attributeName="opacity" values="0.35;0.35;1.0;0.35;0.35" keyTimes="0;0.04;0.06;0.10;1" dur="8s" begin="3.70s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="594.7" cy="176.7" r="3" fill="#00d4ff" opacity="0.35">
+      <animate attributeName="opacity" values="0.35;0.35;1.0;0.35;0.35" keyTimes="0;0.04;0.06;0.10;1" dur="8s" begin="4.79s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="614.3" cy="147.8" r="3" fill="#ffb020" opacity="0.35">
+      <animate attributeName="opacity" values="0.35;0.35;1.0;0.35;0.35" keyTimes="0;0.04;0.06;0.10;1" dur="8s" begin="5.28s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="602.4" cy="120.0" r="3" fill="#ffb020" opacity="0.35">
+      <animate attributeName="opacity" values="0.35;0.35;1.0;0.35;0.35" keyTimes="0;0.04;0.06;0.10;1" dur="8s" begin="6.37s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="626.3" cy="85.0" r="3" fill="#ffb020" opacity="0.35">
+      <animate attributeName="opacity" values="0.35;0.35;1.0;0.35;0.35" keyTimes="0;0.04;0.06;0.10;1" dur="8s" begin="7.46s" repeatCount="indefinite"/>
+    </circle>
+</svg>
