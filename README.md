@@ -221,7 +221,7 @@ Philosophy: Building scalable, user-centric apps with clean architecture
     <img src="https://img.shields.io/badge/-LinkedIn-080c14?style=for-the-badge&logo=linkedin&logoColor=a78bfa" alt="LinkedIn"/>
   </a>
   
-  <a href="mailto:developer.labibur@gmail.com">
+  <a href="mailto:contact.labibur@gmail.com">
     <img src="https://img.shields.io/badge/-Email-080c14?style=for-the-badge&logo=gmail&logoColor=00d4ff" alt="Email"/>
   </a>
 

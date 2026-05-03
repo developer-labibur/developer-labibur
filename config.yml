@@ -27,7 +27,7 @@ profile:
 
 # Social links displayed at the bottom of the profile
 social:
-  email: "developer.labibur@gmail.com"
+  email: "contact.labibur@gmail.com"
   linkedin: "labib-ur-rahman"
   website: "https://devlabib.web.app"
 
@@ -35,16 +35,18 @@ social:
 # Each arm spirals out from the center with its own color and tech items
 # Available colors: "synapse_cyan", "dendrite_violet", "axon_amber"
 galaxy_arms:
-  - name: "ProgrammingLanguages"
+  - name: "Programming Languages"
     color: "dendrite_violet"
     items:
       - "Kotlin"
       - "Dart"
       - "Java"
+      - "PHP"
   - name: "MobileDevelopment"
     color: "synapse_cyan"
     items:
       - "Flutter"
+      - "XML"
       - "GetX"
       - "Riverpod"
   - name: "BackendServices"
@@ -52,7 +54,8 @@ galaxy_arms:
     items:
       - "Firebase"
       - "REST API"
-      - "PHP"
+      - "Stripe"
+      - "Agora"
 
 
 # Featured projects shown as constellation stars
@@ -61,10 +64,10 @@ galaxy_arms:
 #   arm: 0-2                  — Which galaxy arm to associate with (index)
 #   description: "..."        — Short description shown on the card
 projects:
-  - repo: "developer-labibur/developer-labibur"
+  - repo: "developer-labibur/deep-quran"
     arm: 0
     description: "Islamic learning platform featuring audio recitation, translations, and optimized reading experience with focus on performance and accessibility."
-  - repo: "developer-labibur/developer-labibur"
+  - repo: "developer-labibur/go-get-a-genie"
     arm: 1
     description: "AI-powered project and task management app with manual/AI project creation, collaboration, infinite subtasks, and real-time notifications for streamlined workflow."
 
