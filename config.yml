@@ -18,11 +18,10 @@ profile:
   tagline: "Mobile App Developer | Flutter | Dart | Kotlin | Java"
   company: "Flutter Developer @ Softvence | Dhaka, Bangladesh"
   location: "Mohakhali, Dhaka, Bangladesh"
-  bio: |
-    Flutter Developer with proven expertise in building 
+  bio: "Flutter Developer with proven expertise in building 
     production-ready mobile applications for Google Play Store and Apple App Store. 
     Specialized in real-time communication, AI integration, 
-    and scalable cross-platform solutions.
+    and scalable cross-platform solutions."
   philosophy: '"Building scalable, user-centric apps with clean architecture"'
 
 # Social links displayed at the bottom of the profile
@@ -42,14 +41,14 @@ galaxy_arms:
       - "Dart"
       - "Java"
       - "PHP"
-  - name: "MobileDevelopment"
+  - name: "Mobile Development"
     color: "synapse_cyan"
     items:
       - "Flutter"
       - "XML"
       - "GetX"
       - "Riverpod"
-  - name: "BackendServices"
+  - name: "Backend & Services"
     color: "axon_amber"
     items:
       - "Firebase"

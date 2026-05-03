@@ -60,9 +60,9 @@
     </g>
     <text x="708.9" y="98.5" fill="#a78bfa" font-size="9" font-family="monospace" text-anchor="start" dominant-baseline="middle">Programming Languages</text>
     <text x="708.9" y="110.5" fill="#64748b" font-size="8" font-family="monospace" text-anchor="start" dominant-baseline="middle">(4)</text>
-    <text x="637.0" y="223.0" fill="#00d4ff" font-size="9" font-family="monospace" text-anchor="middle" dominant-baseline="middle">MobileDevelopment</text>
+    <text x="637.0" y="223.0" fill="#00d4ff" font-size="9" font-family="monospace" text-anchor="middle" dominant-baseline="middle">Mobile Development</text>
     <text x="637.0" y="235.0" fill="#64748b" font-size="8" font-family="monospace" text-anchor="middle" dominant-baseline="middle">(4)</text>
-    <text x="565.1" y="98.5" fill="#ffb020" font-size="9" font-family="monospace" text-anchor="end" dominant-baseline="middle">BackendServices</text>
+    <text x="565.1" y="98.5" fill="#ffb020" font-size="9" font-family="monospace" text-anchor="end" dominant-baseline="middle">Backend &amp; Services</text>
     <text x="565.1" y="110.5" fill="#64748b" font-size="8" font-family="monospace" text-anchor="end" dominant-baseline="middle">(4)</text>
     <circle cx="641.6" cy="116.4" r="3" fill="#a78bfa" opacity="0.35">
       <animate attributeName="opacity" values="0.35;0.35;1.0;0.35;0.35" keyTimes="0;0.04;0.06;0.10;1" dur="8s" begin="7.94s" repeatCount="indefinite"/>

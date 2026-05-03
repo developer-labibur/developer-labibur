@@ -152,8 +152,8 @@
     <text x="623.3333333333334" y="111" fill="#f1f5f9" font-size="14" font-weight="bold" font-family="sans-serif" text-anchor="middle">go-get-a-genie</text>
     <text x="623.3333333333334" y="129" fill="#94a3b8" font-size="11" font-family="sans-serif" text-anchor="middle">AI-powered project and task management app</text>
     <text x="623.3333333333334" y="144" fill="#94a3b8" font-size="11" font-family="sans-serif" text-anchor="middle">with manual/AI project creation,</text>
-    <rect x="555.8333333333334" y="163" width="135" height="18" rx="9" ry="9" fill="#00d4ff" opacity="0.12"/>
-    <text x="623.3333333333334" y="175" fill="#00d4ff" font-size="9" font-family="monospace" text-anchor="middle" opacity="0.85">MobileDevelopment</text>
+    <rect x="552.3333333333334" y="163" width="142" height="18" rx="9" ry="9" fill="#00d4ff" opacity="0.12"/>
+    <text x="623.3333333333334" y="175" fill="#00d4ff" font-size="9" font-family="monospace" text-anchor="middle" opacity="0.85">Mobile Development</text>
   </g>
 
   <!-- Global scan line -->
