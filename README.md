@@ -1,9 +1,3 @@
-<!-- Galaxy Profile README Template
-     Customize this file with your own info, then rename it to README.md
-     in your GitHub profile repo (github.com/YOUR_USERNAME/YOUR_USERNAME).
-     The SVG paths below point to assets/generated/ which are auto-generated
-     by the GitHub Actions workflow or by running: python -m generator.main -->
-
 <div align="center">
   <a href="#">
      <img src="./assets/generated/galaxy-header.svg" width="850" alt="Galaxy Header"/>
@@ -53,8 +47,8 @@
 <br/>
 
 
+<!-- Rainbow divider -->
 <div align="center">
-  <!-- Rainbow divider -->
   <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 </div>
 
@@ -132,8 +126,8 @@
   <p align="center">
     <!-- Rainbow divider -->
     <a href="#"><img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"></a>
-    <br/><br/>
-      
+    <br/>
+    <br/>
     <a href="#">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00B8D9&center=true&vCenter=true&width=700&lines=Assalamu+Alaikum,+This+is+Labib;A+Flutter+Developer;Kotlin+Enthusiast;Mobile+App+Specialist;" alt="Typing Animation" />
     </a>
@@ -170,7 +164,7 @@
 
   ```yaml
   Current Role: Flutter Developer @ Softvence | Dhaka, Bangladesh
-  Experience: Delivered 2+ published apps on Play Store & App Store
+  Experience: Delivered 3+ published apps on Play Store & App Store
   Specialization: Flutter, Real-time Communication (Agora), AI Integration, Payment Systems
   Education: BSc in Computer Science and Engineering, Uttara University (Ongoing)
   Philosophy: Building scalable, user-centric apps with clean architecture
@@ -186,15 +180,12 @@
     <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
     <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
     <img src="https://img.shields.io/badge/XML-%23FF6600.svg?style=for-the-badge&logo=xml&logoColor=white" alt="XML"/>
-    
     <img src="https://img.shields.io/badge/Riverpod-%2300C853.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Riverpod"/>
     <img src="https://img.shields.io/badge/GetX-%23FF4081.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="GetX"/>
     <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
-    
     <img src="https://img.shields.io/badge/REST%20API-%23013243.svg?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API"/>
     <img src="https://img.shields.io/badge/Agora-%23099DFD.svg?style=for-the-badge&logo=agora&logoColor=white" alt="Agora"/>
     <img src="https://img.shields.io/badge/Stripe-%23008CDD.svg?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe"/>
-
     <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   </p>
 
