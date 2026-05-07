@@ -61,7 +61,7 @@
     <td>
       <!-- ![My GitHub Game](game.gif) -->
        <a href="#">
-        <img src="game.gif" width="800" alt="GitHub Streak Game"/>
+        <img src="game.gif" width="820" alt="GitHub Streak Game"/>
        </a>
        <!-- <picture>
          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/developer-labibur/developer-labibur/output/snake.svg">
