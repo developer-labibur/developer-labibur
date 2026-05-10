@@ -60,13 +60,13 @@
   <tr>
     <td>
       <!-- ![My GitHub Game](game.gif) -->
-       <a href="#">
+       <!-- <a href="#">
         <img src="game.gif" alt="GitHub Streak Game"/>
-       </a>
-       <!-- <picture>
+       </a> -->
+       <picture>
          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/developer-labibur/developer-labibur/output/snake.svg">
            <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/developer-labibur/developer-labibur/output/snake.svg">
-       </picture> -->
+       </picture>
     </td>
   </tr>
 </table>
