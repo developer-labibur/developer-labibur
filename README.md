@@ -116,11 +116,11 @@
         <strong>Role:</strong> Patient & Nurse Module Owner
       </p>
       <p align="center">
+        <a href="https://play.google.com/store/apps/details?id=com.medconnect.ge.app&hl=en">
+          <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/>
+        </a>
         <a href="https://apps.apple.com/us/app/med-connect/id6762121040">
           <img src="https://img.shields.io/badge/App_Store-0A84FF?style=for-the-badge&logo=apple&logoColor=white"/>
-        </a>
-        <a href="https://play.google.com/store/apps/details?id=com.medconnect.ge.app&hl=en">
-          <img src="https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=google-play&logoColor=white"/>
         </a>
       </p>
       <p align="center">
