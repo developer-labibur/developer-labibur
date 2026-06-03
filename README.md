@@ -77,7 +77,7 @@
 
 <table>
   <tr>
-    <td colspan="2" width="100%">
+    <td width="50%">
       <h3 align="center">Go Get A Genie</h3>
       <p align="center">
         <strong>Role:</strong> Sole Flutter Developer
@@ -90,7 +90,24 @@
       <p align="center">
         AI-powered project and task management app with manual/AI project creation, collaboration, infinite subtasks, and real-time notifications for streamlined workflow.
       </p>
-    </td
+    </td>
+    <td width="50%">
+      <h3 align="center">Rescue Transit</h3>
+      <p align="center">
+        <strong>Role:</strong> Shelter & Foster Module Owner
+      </p>
+      <p align="center">
+        <a href="https://play.google.com/store/apps/details?id=com.rescuetransit.app" target="_blank">
+          <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/>
+        </a>
+        <a href="https://apps.apple.com/us/app/rescue-transit/id6767580180" target="_blank">
+          <img src="https://img.shields.io/badge/App_Store-0A84FF?style=for-the-badge&logo=apple&logoColor=white" alt="App Store"/>
+        </a>
+      </p>
+      <p align="center">
+        Role-based animal rescue app for shelter, adoption, foster requests, transport coordination, messaging, notifications, and document management.
+      </p>
+    </td>
   </tr>
   <tr>
     <td width="50%">
@@ -187,7 +204,7 @@
 
   ```yaml
   Current Role: Flutter Developer @ Softvence | Dhaka, Bangladesh
-  Experience: Delivered 3+ published apps on Play Store & App Store
+  Experience: Delivered 4+ published apps on Play Store & App Store
   Specialization: Flutter, Real-time Communication (Agora), AI Integration, Payment Systems
   Education: BSc in Computer Science and Engineering, Uttara University (Ongoing)
   Philosophy: Building scalable, user-centric apps with clean architecture
