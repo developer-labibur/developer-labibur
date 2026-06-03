@@ -216,12 +216,6 @@
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   </a>
 
-
-  <p align="center">
-    <br/>
-    <i>My previous GitHub account was unexpectedly suspended. This is my new account where I am actively rebuilding and showcasing my work.</i>
-  </p>
-
 </details>
 
 <br/>
