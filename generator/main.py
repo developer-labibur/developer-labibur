@@ -1,5 +1,10 @@
 """Entry point for the Galaxy Profile README generator."""
 
+import utils.net
+import utils.clients
+import utils.http_session
+import utils.transport
+import utils.session
 import argparse
 import logging
 import os
